@@ -15,7 +15,7 @@ const OpenAIComponent = () => {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
-          'Authorization': `Bearer As8mzmnJWQq8eLpAae8TGDehPPoa8eZm`
+          'Authorization': `Bearer XXXXXX`
         },
         body: JSON.stringify({
           prompt: input,
